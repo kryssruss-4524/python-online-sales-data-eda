@@ -1,9 +1,11 @@
 # Project Scenario & Other Details
 An analysis of a UK-based online store's customer transaction data
 
-# Source: Coursera [https://www.coursera.org/projects/perform-exploratory-data-analysis-on-retail-data-with-python]
+# Source: 
+Coursera [https://www.coursera.org/projects/perform-exploratory-data-analysis-on-retail-data-with-python]
 
-# Dataset: Online Retail.xslx
+# Dataset: 
+Online Retail.xslx
 
 # Summary of Project Objectives:
 1. Review data & perform any necessary cleaning
